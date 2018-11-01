@@ -1,4 +1,6 @@
-# zanproject
+# tender project for Ministry of Health of Kazakhstan
+repository includes signing and signuping linked with firebase
+
 
 > A Vue.js project
 
